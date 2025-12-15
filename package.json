@@ -1,0 +1,32 @@
+{
+  "name": "taskflow",
+  "version": "1.0.0",
+  "description": "TaskFlow – A backend-driven project management platform to create, assign, and track tasks across teams and projects.",
+  "keywords": [
+    "project",
+    "management",
+    "task",
+    "tracking",
+    "team",
+    "collaboration",
+    "backend",
+    "system",
+    "REST",
+    "API",
+    "authentication",
+    "user",
+    "roles",
+    "scalable",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Harshal Pawar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
