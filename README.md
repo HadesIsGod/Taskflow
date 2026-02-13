@@ -103,19 +103,6 @@ npm start
 * Scalable folder structure
 * Production-ready backend design
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-
-
----
-
----
 
 
 
